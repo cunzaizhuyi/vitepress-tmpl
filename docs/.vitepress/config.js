@@ -81,7 +81,12 @@ export default {
             { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
             { icon: 'twitter', link: '...' },
             { icon: 'discord', link: '...' }
-        ]
+        ],
+
+        footer: {
+            message: 'Released under the MIT License.',
+            copyright: 'Copyright © 2022-present feiye'
+        }
 
     }
 }
