@@ -1,5 +1,9 @@
 export default {
+    title: '飞叶', // 所有文档的浏览器标签title
+    description: '飞叶的网站', // 会渲染成<meta>标签，SEO用
+
     themeConfig: {
+
         siteTitle: '飞叶的网站',
         logo: '/logo.jpg',
 
@@ -86,7 +90,8 @@ export default {
         footer: {
             message: 'Released under the MIT License.',
             copyright: 'Copyright © 2022-present feiye'
-        }
+        },
+
 
     }
 }
