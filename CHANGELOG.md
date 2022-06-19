@@ -1,4 +1,9 @@
-# 1.0.0 (2022-06-19)
+## 1.0.1 (2022-06-19)
+
+
+### Bug Fixes
+
+* add aa ([fa58f39](https://github.com/cunzaizhuyi/vitepress-tmpl/commit/fa58f396e1310ecea5c3ee343ce2694a58ad321d))
 
 
 ### Features
