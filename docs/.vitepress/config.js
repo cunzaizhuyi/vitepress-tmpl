@@ -3,6 +3,8 @@ import menu2Sidebar from "./menu2Sidebar";
 import menu3Sidebar from "./menu3Sidebar";
 
 export default {
+    base: '/',
+
     title: '飞叶', // 所有文档的浏览器标签title
     description: '飞叶的网站', // 会渲染成<meta>标签，SEO用
 

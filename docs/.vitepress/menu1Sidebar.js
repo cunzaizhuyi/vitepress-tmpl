@@ -16,7 +16,7 @@ export default [
         collapsible: true,
         collapsed: false,
         items: [
-            { text: 'c', link: `${commonPath}/c.md` }, // /guide/two.md
+            { text: 'c', link: `${commonPath}/c.md` },
             { text: 'd', link: `${commonPath}/d.md` } // /guide/one.md
         ]
     }

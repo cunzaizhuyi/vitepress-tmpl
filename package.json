@@ -6,7 +6,7 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs",
+    "docs:serve": "vitepress serve docs --port 3001",
     "clog": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md"
   },
   "devDependencies": {
